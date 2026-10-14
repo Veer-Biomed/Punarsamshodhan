@@ -1,6 +1,6 @@
-# Punarsamshodhan Startup Website
+# Punarsamshodhan
 
-A minimal startup landing page built with plain HTML, CSS, and JavaScript.
+A minimal startup landing page for Punarsamshodhan, built with plain HTML, CSS, and JavaScript.
 
 ## Files
 - `index.html` — main landing page
@@ -9,7 +9,7 @@ A minimal startup landing page built with plain HTML, CSS, and JavaScript.
 
 ## Local preview
 1. Open `index.html` in a browser, or
-2. Run a small local server from the repo root:
+2. Run a local server from the repo root:
 
 ```bash
 python3 -m http.server 8000
@@ -18,11 +18,7 @@ python3 -m http.server 8000
 Then visit `http://localhost:8000`.
 
 ## Deployment
-This site is static and can be deployed to:
-- GitHub Pages
-- Netlify
-- Vercel
-- any static hosting service
+This is a static website and can be deployed on GitHub Pages, Netlify, Vercel, or any static hosting platform.
 
-## Brand note
-The content currently uses a polished startup template and the repository name `Punarsamshodhan` as the brand. You can replace the placeholder text, email, and company details with your actual startup information.
+## Customization
+Update the text, contact details, and call-to-action content in `index.html` to reflect your exact business offerings and target audience.
